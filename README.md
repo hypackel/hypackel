@@ -22,6 +22,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=PHP&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-ffdd51?style=for-the-badge&logo=python&logoColor=%23ffdd51&labelColor=%233776AB&color=%233776AB)
 
 ### Front-End Development
 
@@ -36,6 +37,9 @@
 
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Databases
+![Static Badge](https://img.shields.io/badge/MongoDB-00ea63?style=for-the-badge&logo=Mongodb&logoColor=00ea63&labelColor=fff&color=fff)
 
 ### Design Tools
 
