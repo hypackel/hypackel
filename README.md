@@ -9,10 +9,15 @@
 🎓 I am Aarav M, a **Front End Web Developer** (specializing in **React and HTML Applications**).
 
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Spanish** and **Coding** to some whacky ones like **writing with my right hand**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Spanish** and **touch typing** to some whacky ones like **writing with my right hand**.
 
 
 ✈️ I love **Airplanes** too. I have been on the mighty **A380** as well as the **Boeing 747**
+
+
+### Pinned Repository
+<a href="https://github.com/hypackel/hypackel.github.io" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hypackel&theme=dark&&repo=hypackel.github.io" alt="nate-games"/></a>
+
 
 
 ## 🛠️ Skills
@@ -47,18 +52,23 @@
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<!-- ## 🔗 Links
+### Socials
+<a href="https://www.youtube.com/channel/UCtZQ7nF4ggZkW7oi9X7TWfA" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656502149youtube-app-logo-png.png" alt="youtube" width="40" height="40"/></a>
+<a href="https://discord.gg/eHqQ84MEkD" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/></a>
+<a href="https://replit.com/@hypackel" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=replit" alt="replit" width="40" height="40"/></a>
+<a href="https://twitter.com/Hypackel" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="replit" width="40" height="40"/></a>
+<a href="https://open.spotify.com/user/31vlrn5ihdqb7mtz3n7gpktem65a?si=ef1541c82ebd47b0" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png" style="border-radius:7px" alt="replit" width="40" height="40"/></a>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ruppysuppy)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
- -->
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://hypackel.com)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/hypackel)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hypacker)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypacker)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/hypacker)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hypackel/)
+
 
 
 
