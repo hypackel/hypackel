@@ -5,32 +5,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hypackel&label=Profile%20views&color=ff0000&style=for-the-badge" alt="hypackel" /> </p>
 
 
-## My current project
-
-hypackel/HyStore is a react native app without ads to allow you to sideload your favorite apps.
-
-## 🌐 Socials
 ###
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hypackel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hypackel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
 
 <img align="right" height="150" src="https://wakatime.com/photo/4d01d481-afa2-4567-bab7-91564243df38?s=420"  />
 
 ###
-
-<div align="left">
-  <a href="https://www.youtube.com/@hypackel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/802232572297085059" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:support@hypackel.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-## 💻 Tech Stack
-
-
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -54,30 +44,52 @@ hypackel/HyStore is a react native app without ads to allow you to sideload your
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  />
 </div>
 
-## 📊 GitHub Stats
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hypackel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hypackel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@hypackel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/802232572297085059" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:support@hypackel.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-##
+
+
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hypackel/hypackel/output/snake.svg" alt="Snake animation" />
+<br>
+
+###
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <a href="https://discord.com/users/802232572297085059" target="_blank">
-    <img width="49%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/802232572297085059?bg=1f1f1f&borderRadius=5px">
+    <img style="max-height: 150px; width: 49%;" alt="Discord Status" src="https://lanyard.cnrad.dev/api/802232572297085059?bg=1f1f1f&borderRadius=5px">
   </a>
   <a href="https://github.com/hypackel" target="_blank">
-    <img width="49%" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hypackel&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+    <img style="max-height: 150px; width: 49%;" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hypackel&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
   </a>
-</div>
+</div> -->
+
+<a href="https://discord.com/users/802232572297085059" target="_blank">
+ <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/802232572297085059?bg=1f1f1f&borderRadius=5px">
+</a>
+<a href="https://github.com/hypackel" target="_blank">
+ <img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hypackel&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
 
 
 
-##
+
+###
