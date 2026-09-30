@@ -17,7 +17,7 @@ Founder of [Hypackel Games](https://hypackel.com). Building apps and games used 
 - [Overly](https://overly.gyan.io) **-** A MacOS overlay that brings a floating AI window to you with a global hotkey.
 - [Yurikado](https://yurikado.com) **-** A portfolio website built for a client
 - [Veramatic](https://accumatic-react.vercel.app) **-** Built the original site for Accumatic which later rebranded as Veramatic.
-- [HyTools](https://time.hypackel.com) **-** A collection various tools and a ad-free time.is alternative.
+- [HyTools](https://time.hypackel.com) **-** A collection of various tools and a ad-free time.is alternative.
 
 ---
 <p align="center">
